@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StringTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: df50757457b2a1c43b279803d1c013a2, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 59937710080
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 292801273856
+    m_Localized: Hall of Fame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 403161800704
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 485177221120
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8862859059200
+    m_Localized: Exit to menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9107324067840
+    m_Localized: Volume Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9197178642432
+    m_Localized: Volume Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9830027812864
+    m_Localized: Highscores!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9937066450944
+    m_Localized: POS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10071573585920
+    m_Localized: Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10164611637248
+    m_Localized: Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10299508842496
+    m_Localized: GameOver!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
